@@ -1,0 +1,22 @@
+2021-12-14 14:57:51 info : perm: ==== star
+2021-12-14 14:57:51 info : function login(req, res) {
+        _logger2.default.info("ctrl into");
+        res.send("login inter");
+    }
+2021-12-14 14:57:51 info : login star: ====
+2021-12-14 14:57:51 info : qidong=======
+2021-12-14 14:57:51 warn : qidong====ddd===
+2021-12-14 14:57:51 error : qidong====error===
+2021-12-14 14:57:58 info : ctrl into
+2021-12-14 14:59:39 info : ctrl into
+2021-12-14 14:59:53 info : ctrl into
+2021-12-14 15:47:45 info : perm: ==== star
+2021-12-14 15:47:45 info : function login(req, res) {
+        _logger2.default.info("ctrl into");
+        res.send("login inter");
+    }
+2021-12-14 15:47:45 info : login star: ====
+2021-12-14 15:47:45 info : qidong=======
+2021-12-14 15:47:45 warn : qidong====ddd===
+2021-12-14 15:47:45 error : qidong====error===
+2021-12-14 15:49:43 info : ctrl into
